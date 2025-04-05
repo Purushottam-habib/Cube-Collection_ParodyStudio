@@ -2,4 +2,4 @@
 
 # Play the Game......
 WebGL link:
-Click to play: https://play.unity.com/en/games/b8b87409-1692-4a76-9f12-2a67067b6d14/collect-the-cubes
+Click to play: https://play.unity.com/en/games/711ea287-2cd7-4a2f-9838-6d8f64b7c163/cube-collector
